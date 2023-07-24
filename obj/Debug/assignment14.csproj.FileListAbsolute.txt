@@ -1,0 +1,8 @@
+C:\data\assignment14\assignment14\bin\Debug\assignment14.exe.config
+C:\data\assignment14\assignment14\bin\Debug\assignment14.exe
+C:\data\assignment14\assignment14\bin\Debug\assignment14.pdb
+C:\data\assignment14\assignment14\obj\Debug\assignment14.csproj.AssemblyReference.cache
+C:\data\assignment14\assignment14\obj\Debug\assignment14.csproj.SuggestedBindingRedirects.cache
+C:\data\assignment14\assignment14\obj\Debug\assignment14.csproj.CoreCompileInputs.cache
+C:\data\assignment14\assignment14\obj\Debug\assignment14.exe
+C:\data\assignment14\assignment14\obj\Debug\assignment14.pdb
